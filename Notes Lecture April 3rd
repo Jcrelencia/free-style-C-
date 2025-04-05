@@ -1,0 +1,10 @@
+
+Thursday april 3rd lecture notes
+1)If code complies on computer but not github then the student hasn't commited correctly to the github.
+2)The way we structure the code doesnt matter as long it is consistent.
+3)Github is a like a time machine. When you want to change something in the main code but you don't wanna mess it up, you create a new branch
+4)Always remember to commit and push whenver finishing an assignment, the new stuff that hasn't been commited will havea color next to the text line
+5)Clion has functions to make classes, constructors, etc..
+6) Test cases are very important in this class as it showes the instructor that the student knows the code works rather than having github show you its correct
+7)dont but obious comments over lines of code.
+8)using the debugger module is very useful to going step through step on what your code is doing
